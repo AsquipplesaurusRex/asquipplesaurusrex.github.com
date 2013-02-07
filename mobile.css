@@ -1,0 +1,117 @@
+body
+{
+	background-color: #000000;
+	
+}
+
+.navigation
+{
+	width: 100%;
+	background-color: #777777;
+	margin-top: 20px;
+	margin-right: 50px;
+	margin-bottom: 20px;
+	margin-left: 50px;
+	padding: 0;
+}
+
+h1
+{
+	font-family: "Palatino Linotype", Palatino;
+	font-size: 48px;
+	font-weight: 100;
+	color: #EEEEEE;
+	margin-left: 50px;
+	margin-top: 40px;
+}
+
+p
+{
+	font-family: 'Lucida Sans Unicode', Serif;
+	font-size: 14px;
+	font-weight: 10;
+	color: #EEEEEE;
+	letter-spacing: 5px;
+	line-height: 250%;
+}
+
+ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li
+{
+	float: left;
+}
+
+a
+{
+	
+	display: block;
+	width: 100px;
+	text-decoration: none;
+	color: #666666;
+	font-family: 'Lucida Sans Unicode', Serif;
+	font-size: 18px;
+}
+
+.element
+{
+	margin-top: 50px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+	margin-left: 50px;
+	width: 518px;
+	text-align: justify;
+}
+
+.transparent
+{
+	zoom: 1;
+	filter: alpha(opacity=70);
+	opacity: 0.7;
+}
+
+.resumeContent
+{
+	font-family: 'Lucida Sans Unicode', Serif;
+	font-size: 14px;
+	font-weight: 10;
+	color: #EEEEEE;
+	letter-spacing: 3px;
+	line-height: 150%;
+}
+
+.resumeHeader
+{
+	font-family: 'Lucida Sans Unicode', Serif;
+	font-size: 18px;
+	font-weight: 100;
+	color: #EEEEEE;
+	letter-spacing: 15px;
+	line-height: 150%;
+}
+
+.resumeSubHeader
+{
+	font-family: 'Lucida Sans Unicode', Serif;
+	font-size: 16px;
+	font-weight: 20;
+	color: #EEEEEE;
+	letter-spacing: 3px;
+	line-height: 150%;
+}
+
+.resumeDateHeader
+{
+	font-family: 'Lucida Sans Unicode', Serif;
+	font-size: 14px;
+	font-weight: 20;
+	font-style: italic;
+	color: #EEEEEE;
+	letter-spacing: 3px;
+	line-height: 100%;
+}
