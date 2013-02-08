@@ -64,8 +64,8 @@ a
 	margin-right: 50px;
 	margin-bottom: 50px;
 	margin-left: 50px;
-	width: 674px;
-	height: 470px;
+	width: 472px;
+	height: 350px;
 	text-align: justify;
 	overflow: auto;
 }
@@ -79,7 +79,14 @@ a
 
 .backgroundImage
 {
-	background-image: url('selftransparent.jpg');
+	background-image: url('self_mobile.jpg');
+	background-repeat: no-repeat;
+	background-position: top;
+}
+
+.backgroundImageTransparent
+{
+	background-image: url('selftransparent_mobile.jpg');
 	background-repeat: no-repeat;
 	background-position: top;
 	

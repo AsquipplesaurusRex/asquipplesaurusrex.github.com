@@ -79,6 +79,13 @@ a
 
 .backgroundImage
 {
+	background-image: url('self.jpg');
+	background-repeat: no-repeat;
+	background-position: top;
+}
+
+.backgroundImageTransparent
+{
 	background-image: url('selftransparent.jpg');
 	background-repeat: no-repeat;
 	background-position: top;
